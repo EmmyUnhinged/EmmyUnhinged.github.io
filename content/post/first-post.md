@@ -5,14 +5,11 @@ draft: false
 image: debby-hudson-slAVnEz1wbo-unsplash.jpg
 ---
 
-# boobs
+# Jokes on you guys. 
 
-## Tboobs
+## I figured out how to write on my website. it's over for all of you.
 
-- this
-aaaaa- is
-- aaaaa
-- listaaaaa
+
 
 this is a link to [Google](https://google.com)
 
