@@ -1,6 +1,6 @@
 ---
 title: "I figured out how to post."
-date: 2021-08-29T12:23:43-04:00
+date: 2021-09-04
 draft: false
 image: debby-hudson-slAVnEz1wbo-unsplash.jpg
 ---
