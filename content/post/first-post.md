@@ -11,8 +11,4 @@ image: debby-hudson-slAVnEz1wbo-unsplash.jpg
 
 
 
-this is a link to [Google](https://google.com)
 
-this is an image
-
-![](/images/debby-hudson-slAVnEz1wbo-unsplash.jpg)
